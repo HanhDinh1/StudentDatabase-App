@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author msmyh
+ *
+ */
+module StudentDatabaseApp {
+}
